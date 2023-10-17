@@ -13,6 +13,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.articulocompose.ui.theme.ArticuloComposeTheme
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxHeight
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
